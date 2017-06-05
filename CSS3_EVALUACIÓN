@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>FOTOGRAFIAS</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/ESTILOS.CSS">
+</head>
+<body>
+  <div id="contenido">
+
+  <header id="main-header">
+    <a id="logo-header">
+    <span class="site-name">Comenzando con los Paisajes</span>
+    <a/>
+    <nav>
+      <ul>
+        <li><a href="INDEX.HTML">Inicio</a></li>
+        <li><a href="PAISAJES.HTML">Paisajes</a></li>
+        <li><a href="RETRATOS.HTML">Retratos</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <div id="main-content">
+    <img src="imagen/paisaje.jpg" width="400" height="250" alt="solvetic" />
+ </div>
+
+  <div id="main-conten">
+    <div id="natural">
+       <img src="imagen/natural.jpg" width="400" height="250" />
+         <a href="PAISAJES.HTML">Paisajes</a>
+    </div>
+    <div id="nanural">
+       <img class="nanurall" src="imagen/nanural2.jpg" width="400" height="250" />
+       <a href="RETRATOS.HTML">Retratos</a>
+ </div>
+</div>
+<footer>
+ <div id="text">
+<p>
+  <H2>CONTACTO</H2>
+  <br>Nombre :CARLOS MEDINA RAMOS</br>
+  <br>Dirección :mz D lt 08</br>
+  <br>Telefono :931561268</br>
+</p>
+</div>
+
+<div id="textt">
+  <p>
+    <h2> TERMINOS </H2>
+      Conoce nuestro terminos y condiciones
+    </p>
+    </div>
+
+  <div id="texttt">
+  <p>
+    <h2>REDES SOCIALES</h2>
+      <br>Facebook  </br>
+      <br>Instragram  </br>
+      <br>twitter  </br>
+  </p>
+</div>
+
+  <div id="textttt">
+    <p>
+      <h2>DERECHOS</h2>
+      Copyrght 2020
+      <p>
+  </div>
+    </div>
+</footer>
+</body>
+
+
+</html>
